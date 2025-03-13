@@ -1,1 +1,1 @@
-# home_work for ITMO uni '25
+# Home work for ITMO uni '25
