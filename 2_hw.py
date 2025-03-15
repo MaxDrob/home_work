@@ -4,17 +4,18 @@
 
 
 def task_1() -> None:
-    num = 10001
-    decimal = 9.1
-    text = "All your base are belong to us"
-    items = [10, 1000, 10000]
-    is_valid = True
+    i: int = 1000
+    f: float = 9.16
+    st: str = "This is a test task"
+    l: list = [1, 3, 3, 4, 4]
+    b: bool = True
 
-    print(num)
-    print(decimal)
-    print(text)
-    print(items)
-    print(is_valid)
+    print(i, type(i))
+    print(f, type(f))
+    print(st, type(st))
+    print(l, type(l))
+    print(b, type(b))
+
 
 task_1()
 
